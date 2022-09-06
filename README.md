@@ -12,15 +12,15 @@
 - [moonstone](https://www.gia.edu/moonstone "Moon Stone")
 - [jasper](https://www.minerals.net/gemstone/jasper_gemstone.aspx "Jasper")
 
+## Check Out
+
+- [Tay's Wraps - Wire Wrapped Jewelry](https://www.tayswraps.com/ "Tay's Wraps - Beautiful Wire Wrapped Jewelry")
+- [McCoy Minerals, Inc.](https://www.mccoyminerals.com "McCoy Minerals, Inc. in Blowing Rock, NC")
+- [Doc's Rocks Gem Mine](https://docsrocks.org "Doc's Rocks Gem Mine in Blowing Rock, NC")
+
 ## Reference
 
 - [GIA](https://www.gia.edu/garnet "GIA")
 - [IGS](https://www.gemsociety.org "International Gem Society")
 - [geology.com](https://geology.com/gemstones/%s "geology.com - Gemstones")
 - [gemstones.com](https://www.gemstones.com/gemopedia/%s "gemstones.com - Gemopedia")
-
-## Check Out
-
-- [Doc's Rocks Gem Mine](https://docsrocks.org "Doc's Rocks Gem Mine in Blowing Rock, NC")
-- [McCoy Minerals, Inc.](https://www.mccoyminerals.com "McCoy Minerals, Inc. in Blowing Rock, NC")
-- [Tay's Wraps - Wire Wrapped Jewelry](https://www.tayswraps.com/ "Tay's Wraps - Beautiful Wire Wrapped Jewelry")
