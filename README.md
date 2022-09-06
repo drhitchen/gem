@@ -22,5 +22,5 @@
 
 - [GIA](https://www.gia.edu/garnet "GIA")
 - [IGS](https://www.gemsociety.org "International Gem Society")
-- [geology.com](https://geology.com/gemstones/%s "geology.com - Gemstones")
-- [gemstones.com](https://www.gemstones.com/gemopedia/%s "gemstones.com - Gemopedia")
+- [geology.com](https://geology.com/gemstones/ "geology.com - Gemstones")
+- [gemstones.com](https://www.gemstones.com/gemopedia/ "gemstones.com - Gemopedia")
