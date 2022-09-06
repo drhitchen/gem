@@ -1,5 +1,3 @@
-# Gemstone, geology, mineralogy related informatoin
-
 ## NC Gems
 
 - [emerald](https://www.gia.edu/emerald "Emerald")
