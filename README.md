@@ -20,7 +20,7 @@
 
 ## Reference
 
-- [GIA](https://www.gia.edu/garnet "GIA")
+- [GIA](https://www.gia.edu/ "GIA")
 - [IGS](https://www.gemsociety.org "International Gem Society")
 - [geology.com](https://geology.com/gemstones/ "geology.com - Gemstones")
 - [gemstones.com](https://www.gemstones.com/gemopedia/ "gemstones.com - Gemopedia")
