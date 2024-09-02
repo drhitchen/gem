@@ -14,9 +14,12 @@
 
 ## Check Out
 
-- [Tay's Wraps - Wire Wrapped Jewelry](https://www.tayswraps.com/ "Tay's Wraps - Beautiful Wire Wrapped Jewelry")
-- [McCoy Minerals, Inc.](https://www.mccoyminerals.com "McCoy Minerals, Inc. in Blowing Rock, NC")
-- [Doc's Rocks Gem Mine](https://docsrocks.org "Doc's Rocks Gem Mine in Blowing Rock, NC")
+- [Tay Rae Gems](https://www.tayswraps.com/ "Shop Tae Ray Gems")
+- [Tay Rae Gems - Instagram](https://www.instagram.com/tayraegems "Taylor's Main Instagram")
+- [Tay Rae Uncut - Instagram](https://www.instagram.com/tayraeuncut "Taylor's Uncut Instagram")
+- [Tay Rae Gems - Youtube](https://www.youtube.com/@tayraegems "Taylor's Youtube Channel")
+
+- [Resurrected Rocks - Instagram](https://www.instagram.com/resurrectedrocks "Lori's Instagram")
 
 ## Reference
 
